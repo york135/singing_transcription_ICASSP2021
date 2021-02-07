@@ -1,0 +1,20 @@
+MIR-ST500 dataset
+
+Version: 2021.02.06
+
+Description
+MIR-ST500 dataset is a dataset created by NTU MIRLAB for the task of "automatic singing transcription".
+This dataset contains 500 pop songs and the corresponding annotations of VOCAL parts.
+For more information, please refer to the paper "On the Preparation and Validation of a Large-scale Dataset" (ICASSP2021).
+
+Data Format
+"MIR-ST500_link.json" contains Youtube links of these 500 songs (in dictionary structure of {id:link}). You can download corresponding audio from Youtube using these links.
+"MIR-ST500_corrected.json" contains annotations of these 500 songs. It is a dictionary of {id:gt}. Here, "gt" is a list of ground truth notes (in ascending order of the onset). Each note is denoted by [onset, offset, score pitch].
+"metadata.csv" contains labeler id (1~14) and verifier id (1~6) of each song in the dataset.
+
+Each song has its own id numbering from 1 to 500. We separate these 500 songs into training set (#1 to #400) and test set (#401 to #500).
+If some of the Youtube links do not work, please contact us (especially for those songs in test set !!!).
+
+Contact us
+If there is any wrong about the dataset (e.g. note label is incorrect, Youtube link does not work, etc), please contact Jyh-Shing "Roger" Jang (roger.jang@gmail.com) or Jun-You Wang (b06902046@ntu.edu.tw).
+If some of the notes are incorrect, we will try our best to correct those labels and release newer version as soon as possible.
