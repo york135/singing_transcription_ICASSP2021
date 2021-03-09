@@ -1,6 +1,6 @@
 # Singing Transcription
 This repo contains four parts of code/resources. All of them are related to the paper:
-##### Jun-You Wang and Jyh-Shing Roger Jang, "On the Preparation and Validation of a Large-scale Dataset", ICASSP2021.
+##### Jun-You Wang and Jyh-Shing Roger Jang, "On the Preparation and Validation of a Large-scale Dataset of Singing Transcription", ICASSP2021 accepted paper.
 
 ### MIR-ST500_20210206
 MIR-ST500 dataset is a singing transcription dataset proposed in this paper. It consists of 500 pop songs. For each song, we provide the label of notes (vocal part) and the correponding Youtube URL. You can download these songs using the provided script (get_youtube.py).
