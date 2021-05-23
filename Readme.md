@@ -19,7 +19,7 @@ Source code used to refine onset labels automatically.
 ### evaluate
 We use evaluate/evaluate.py to evaluate our singing transcription model.<br>
 "val_1005_55_icassp_ver.json" is the result transcribed by our model.<br>
-However, after submitting the manuscript to ICASSP2021, we found out that there is a bug in the post-processing code, so you may not be able to reproduce the same result using our python scripts and the pre-trained model (in "AST" folder).
+However, after submitting the manuscript to ICASSP2021, we found out that there is a bug in the post-processing code, so you may not be able to reproduce the exactly same result using our python scripts and the pre-trained model (in "AST" folder). However, the result should still be really close to "val_1005_55_icassp_ver.json".
 
 ### AST
 This folder contains everything needed to reproduce our result:<br>
