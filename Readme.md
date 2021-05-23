@@ -8,7 +8,7 @@ MIR-ST500 dataset is a singing transcription dataset proposed in this paper. It 
 
 For more information, please refer to "MIR-ST500_20210206/Readme".
 
-## Update History
+#### Update History
 2021.02.07 Upload the first version of MIR-ST500 dataset.<br>
 2021.04.08 Fix the note parsing issue, regenerate "MIR-ST500_corrected.json" from MIDI files.<br>
 2021.05.23 Fix note overlapping issue.<br>
