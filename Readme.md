@@ -66,5 +66,5 @@ Using one NVIDIA GTX 1080Ti GPU, it may take up to 2 hours to complete one epoch
 
 And that's all!
 
-### Conclusion?
-This repo is still an ongoing project. The dataset itself may be revised in the future. If you have any question, feel free to contact me directly, or open an issue on Github!
+## For those who need the missed audio of the dataset
+I have cached all the songs of the dataset. If you need a copy, please send an e-mail to me (junyou.wang@mirlab.org) and provide with your name and affiliation. Then, I will decide whether to give you the access or not. Thank you.
