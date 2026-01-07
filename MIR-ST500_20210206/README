@@ -16,5 +16,5 @@ Each song has its own id numbering from 1 to 500. We separate these 500 songs in
 If some of the Youtube links do not work, please contact us (especially for those songs in test set !!!).
 
 Contact us
-If there is any wrong about the dataset (e.g. note label is incorrect, Youtube link does not work, etc), please contact Jyh-Shing "Roger" Jang (roger.jang@gmail.com) or Jun-You Wang (b06902046@ntu.edu.tw).
+If there is any wrong about the dataset (e.g. note label is incorrect, Youtube link does not work, etc), please contact Jun-You Wang (junyouwang135@gmail.com).
 If some of the notes are incorrect, we will try our best to correct those labels and release newer version as soon as possible.
