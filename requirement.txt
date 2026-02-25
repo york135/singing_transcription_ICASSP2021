@@ -3,7 +3,7 @@ torch
 librosa
 spleeter==1.5.4
 soundfile
-youtube_dl
+yt_dlp
 tqdm
 mido
 numpy==1.19.5
