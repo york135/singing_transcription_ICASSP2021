@@ -12,6 +12,7 @@ For more information, please refer to "MIR-ST500_20210206/Readme".
 2021.02.07 Upload the first version of MIR-ST500 dataset.<br>
 2021.04.08 Fix the note parsing issue, regenerate "MIR-ST500_corrected.json" from MIDI files.<br>
 2021.05.23 Fix note overlapping issue.<br>
+**2026.03.05** Thanks to the help of Oleksandr Patsuryn from Northumbria University's London (https://github.com/Patsu-rar), "get_youtube.py" has been updated. Now it uses yt-dlp to download audio files.<br>
 
 ### adjust_onset
 Source code used to refine onset labels automatically.
